@@ -1,0 +1,5 @@
+C:\Users\Tomek\source\repos\cs201-lab-Monitorowanie-pozycji-zawodnikow\cs201-lab-Monitorowanie-pozycji-zawodnikow\bin\Debug\cs201-lab-Monitorowanie-pozycji-zawodnikow.dll
+C:\Users\Tomek\source\repos\cs201-lab-Monitorowanie-pozycji-zawodnikow\cs201-lab-Monitorowanie-pozycji-zawodnikow\bin\Debug\cs201-lab-Monitorowanie-pozycji-zawodnikow.pdb
+C:\Users\Tomek\source\repos\cs201-lab-Monitorowanie-pozycji-zawodnikow\cs201-lab-Monitorowanie-pozycji-zawodnikow\obj\Debug\cs201-lab-Monitorowanie-pozycji-zawodnikow.csprojAssemblyReference.cache
+C:\Users\Tomek\source\repos\cs201-lab-Monitorowanie-pozycji-zawodnikow\cs201-lab-Monitorowanie-pozycji-zawodnikow\obj\Debug\cs201-lab-Monitorowanie-pozycji-zawodnikow.dll
+C:\Users\Tomek\source\repos\cs201-lab-Monitorowanie-pozycji-zawodnikow\cs201-lab-Monitorowanie-pozycji-zawodnikow\obj\Debug\cs201-lab-Monitorowanie-pozycji-zawodnikow.pdb

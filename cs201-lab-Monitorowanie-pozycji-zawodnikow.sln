@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs201-lab-Monitorowanie-pozycji-zawodnikow", "cs201-lab-Monitorowanie-pozycji-zawodnikow\cs201-lab-Monitorowanie-pozycji-zawodnikow.csproj", "{7F3C4268-ECC8-4A80-BF4D-CD19F3259088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp", "WindowsFormsApp\WindowsFormsApp.csproj", "{2133E3B7-C6DC-4586-AC5D-16516CB375DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F3C4268-ECC8-4A80-BF4D-CD19F3259088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3C4268-ECC8-4A80-BF4D-CD19F3259088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3C4268-ECC8-4A80-BF4D-CD19F3259088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3C4268-ECC8-4A80-BF4D-CD19F3259088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2133E3B7-C6DC-4586-AC5D-16516CB375DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2133E3B7-C6DC-4586-AC5D-16516CB375DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2133E3B7-C6DC-4586-AC5D-16516CB375DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2133E3B7-C6DC-4586-AC5D-16516CB375DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAEB4A61-973C-4B05-9BB3-E8D388251AC4}
+	EndGlobalSection
+EndGlobal
